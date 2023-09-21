@@ -1,0 +1,40 @@
+*{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+a{
+    color: black;
+    font-size: 2vw;
+}
+
+.div_navbar a{
+    font-size: 2.5vw;
+} 
+
+.div_navbar{
+    display: flex;
+    justify-content: space-around;
+    margin: 2vw 0 2vw 0;
+}
+
+.div_navbar a:hover{
+text-decoration: underline;
+font-style: italic;
+}
+
+.div_navbar_container{
+    background-color:aquamarine;
+}
+
+.h1_navbar{
+    font-size: 5vw;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    margin: auto;
+}

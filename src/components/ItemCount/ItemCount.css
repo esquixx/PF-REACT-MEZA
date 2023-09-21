@@ -1,0 +1,20 @@
+.div_itemcount{
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    row-gap: 1vh !important;
+    background-color:antiquewhite !important;
+}
+
+.div_botones_itemcount button{
+    margin: 1vw 1vw 3vw 1vw !important;
+    padding: 1vw !important;
+    cursor: pointer !important;
+    border-radius: 10% !important;
+    background-color: aqua !important;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5) !important;
+}
+
+.div_botones_itemcount button:hover{
+background-color: cadetblue !important;
+}

@@ -1,0 +1,16 @@
+.div_img_carrito{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5vw;
+    gap: 2rem;
+}
+
+.img_carrito{
+    width: 30px;
+    height: 30px;
+}
+
+.p_img_carrito{
+font-size: 2rem;
+}
