@@ -5,7 +5,6 @@ Proyecto de práctica para curso de react en Coderhouse.
 
 ## Tabla de Contenidos
 
-- [Deploy](#Deploy):  generado en Vercel: [https://app-react-eosin.vercel.app/](https://react-khaki-psi.vercel.app/)
 - [Descripción](#descripción): Página que imita el ecommerce de una tienda de ropa.
 - [Características](#características):
 
