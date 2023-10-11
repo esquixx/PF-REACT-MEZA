@@ -5,7 +5,7 @@ Proyecto de práctica para curso de react en Coderhouse.
 
 ## Tabla de Contenidos
 
-- [Descripción](#descripción): Página que imita el ecommerce de una tienda de ropa.
+- [Descripción](#descripción): Página que imita el ecommerce de una tienda de venta de articulos de computacion.
 - [Características](#características):
 
             . Agregar y borrar productos en un carrito, limitado por un stock
