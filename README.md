@@ -1,5 +1,5 @@
 # PF-REACT-MEZA
-# Ecommerce - Tienda de ropa
+# Ecommerce - Tienda de Computacion
 
 Proyecto de práctica para curso de react en Coderhouse.
 
