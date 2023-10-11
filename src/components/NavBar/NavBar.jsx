@@ -6,14 +6,12 @@ import CartWidget from "../CartWidget/CartWidget"
 const Navbar = () => {
     return (
         <div className='div_navbar_container'>
-                <Link className='h1_navbar' to={'/'}>Tienda de ropa deportiva</Link>
+                <Link className='h1_navbar' to={'/'}>Hyper Mega Red</Link>
             <div className='div_navbar'>
                 <Link to={'/'}>Todo</Link>
-                <Link to={'/category/camisetas'}>Camisetas</Link>
-                <Link to={'/category/shorts'}>Shorts</Link>
-                <Link to={'/category/pantalones'}>Pantalones</Link>
-                <Link to={'/category/botines'}>Botines</Link>
-                <Link to={'/category/buzos'}>Buzos</Link>
+                <Link to={'/category/monitores'}>Monitores</Link>
+                <Link to={'/category/gabinetes'}>Gabinetes</Link>
+                <Link to={'/category/perifericos'}>Perifericos</Link>
             </div>
             <CartWidget />
         </div>
